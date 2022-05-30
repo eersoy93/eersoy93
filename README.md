@@ -1,11 +1,7 @@
-# Erdem Ersoy (eersoy93)
-Software Developer
+# PyQt6 (Python and Qt6)
 
-# My Web Site
-[erdemersoy.net](https://erdemersoy.net/)
+- [kemu](https://github.com/eersoy93/kemu): A mini GUI for QEMU on Windows.
+- [kiu-el-si-di](https://github.com/eersoy93/kiu-el-si-di): A QLCDNumber that shows system time.
 
-# My Tech Stack
-HTML, CSS, Python, Qt, C#, C++, JavaScript, Fortran, C, x86 Assembly, Linux, Git
-
-# All of My Repositories
-My some of old repositories are in [my NotABug.org profile](https://notabug.org/eersoy93/).
+# Old Projects
+See [my NotABug.org profile](https://notabug.org/eersoy93/).
