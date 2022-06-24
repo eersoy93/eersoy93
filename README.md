@@ -1,3 +1,7 @@
+# Assembly and C
+
+- [os](https://github.com/E93-Software-Organization/os): Operating system of E93 organization. (2022)
+
 # C (Linux System Programming)
 
 - [my-lc3-implementation](https://github.com/eersoy93/my-lc3-implementation): My LC-3 implementation. (2022)
@@ -24,3 +28,6 @@
 # Pygame
 
 - [My Pygame Examples](https://github.com/eersoy93/pygame-examples): My pygame examples. Only Bouncing Balls now. (2022)
+
+# Shell Script (Linux)
+- [Minimal Linux System](https://notabug.org/ersoy-kardesler/minimal-linux-system): A linux-libre ISO image build script.
