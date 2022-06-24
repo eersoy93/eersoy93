@@ -1,7 +1,7 @@
 # C (Linux System Programming)
 
 - [my-lc3-implementation](https://github.com/eersoy93/my-lc3-implementation): My LC-3 implementation. (2022)
-- [mysh](git@github.com:eersoy93/mysh.git): A very simple Linux shell. (2022)
+- [mysh](https://github.com/eersoy93/mysh): A very simple Linux shell. (2022)
 
 # PyGObject
 
