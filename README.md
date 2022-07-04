@@ -1,4 +1,4 @@
-# My GiitHUb Projects
+# My GitHUb Projects
 
 ### Assembly and C
 
