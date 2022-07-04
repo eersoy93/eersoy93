@@ -1,6 +1,6 @@
 ### Assembly and C
 
-- [os](https://github.com/E93-Software-Organization/os): Operating system of E93 organization. (2022)
+- [os](https://github.com/eersoy93/os): Operating system of E93 organization. (2022)
 
 ### C (Linux System Programming)
 
