@@ -2,7 +2,7 @@
 
 ### Assembly and C
 
-- [os](https://github.com/eersoy93/os): Minimal operating system. (2022)
+- [os](https://github.com/eersoy93/os): My own monolithic operating system. (2022)
 
 ### C (Linux System Programming)
 
