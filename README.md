@@ -1,3 +1,5 @@
+# My GiitHUb Projects
+
 ### Assembly and C
 
 - [os](https://github.com/eersoy93/os): Operating system of E93 organization. (2022)
@@ -7,20 +9,9 @@
 - [my-lc3-implementation](https://github.com/eersoy93/my-lc3-implementation): My LC-3 implementation. (2022)
 - [mysh](https://github.com/eersoy93/mysh): A very simple Linux shell. (2022)
 
-### GJS (GNOME JS)
-
-- [Restart Shell](https://kod.pardus.org.tr/eersoy93/gnome-shell-extension-restart-shell): GNOME shell extension that restarts GNOME shell. (2020)
-
 ### Pygame
 
 - [My Pygame Examples](https://github.com/eersoy93/pygame-examples): My pygame examples. Only Bouncing Balls now. (2022)
-
-### PyGObject
-
-- [ETA Exit](https://kod.pardus.org.tr/eersoy93/eta-exit): Exit application for ETAP project. (2020)
-- [ETA Show OSK](https://kod.pardus.org.tr/eersoy93/eta-show-osk): Toggle on-screen keyboard applicaion for ETAP project. (2020)
-- [Pardus Flatpak GUI](https://kod.pardus.org.tr/eersoy93/pardus-flatpak-gui): Flatpak GUI for Pardus. (2020)
-- [Python GTK+ Hello World](https://github.com/eersoy93/python-gtk-hello-world): My template PyGObject application. (2022)
 
 ### PyQt5 (Python and Qt5)
 
