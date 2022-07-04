@@ -28,4 +28,5 @@
 - [Pyotepad](https://github.com/eersoy93/pyotepad): A very simple notepad application. (2022)
 
 ### Shell Script (Linux)
-- [Minimal Linux System](https://github.com/ersoy-kardesler/minimal-linux-system): A linux-libre ISO image build script. (2021-2022)
+
+- [Minimal Linux System (Ersoy Kardesler)](https://github.com/ersoy-kardesler/minimal-linux-system): A linux-libre ISO image build script. (2021-2022)
