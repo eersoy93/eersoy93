@@ -17,6 +17,10 @@
 
 - [My Pygame Examples](https://github.com/eersoy93/pygame-examples): My pygame examples. Only Bouncing Balls now. (2022)
 
+### PyGObject
+
+- [Python GTK+ Hello World](https://github.com/eersoy93/python-gtk-hello-world): My template for my Python GTK+ 3.x applications. (2022)
+
 ### PyQt5 (Python and Qt5)
 
 - [Gonullu GUI](https://github.com/eersoy93/gonullu-gui): GUI of Pisi GNU/Linux Gonullu console application. (2017)
