@@ -1,9 +1,5 @@
 # My GitHub Projects
 
-### Assembly and C
-
-- [os](https://github.com/eersoy93/os): My own monolithic operating system. (2022)
-
 ### C (Linux System Programming)
 
 - [My LC-3 Implementation](https://github.com/eersoy93/my-lc3-implementation): My LC-3 implementation. (2022)
