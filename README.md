@@ -19,7 +19,7 @@
 
 ### PyQt5 (Python and Qt5)
 
-- [Gonullu GUI](https://github.com/eersoy93/gonullu-gui): GUI of Pisi GNU/Linux Gonullu console application. (2017)
+- [Gonullu GUI (archived)](https://github.com/eersoy93/gonullu-gui): GUI of Pisi GNU/Linux Gonullu console application. (2017)
 
 ### PyQt6 (Python and Qt6)
 
