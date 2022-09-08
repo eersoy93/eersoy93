@@ -6,7 +6,7 @@
 
 ### C (Linux System Programming)
 
-- [my-lc3-implementation](https://github.com/eersoy93/my-lc3-implementation): My LC-3 implementation. (2022)
+- [My LC-3 Implementation](https://github.com/eersoy93/my-lc3-implementation): My LC-3 implementation. (2022)
 - [mysh](https://github.com/eersoy93/mysh): A very simple Linux shell. (2022)
 
 ### C# (.NET Framework 4.8)
