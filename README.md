@@ -1,7 +1,7 @@
 # My GitHub Projects
 
 ### Assembly and C
-- [os](https://github.com/ersoy-kardesler/os): My monolithic-kernel OS (unfinished). Created for learning. (2022)
+- [os](https://github.com/eersoy93/os): My monolithic-kernel OS (unfinished). Created for learning. (2022)
 
 ### C (Linux System Programming)
 
