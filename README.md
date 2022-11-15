@@ -12,12 +12,16 @@
 - [Numericale](https://github.com/eersoy93/Numericale): A very simple numeric on-screen keyboard. (2022)
 - [Versioner](https://github.com/eersoy93/Versioner): Shows version information about Windows OS for Windows 8 and below. (2022)
 
+### Linux (Shell Script)
+- [Minimal Linux System](https://github.com/ersoy-kardesler/minimal-linux-system): A minimal Linux-libre system build script. (2021)
+
 ### Pygame
 
 - [My Pygame Examples](https://github.com/eersoy93/pygame-examples): My pygame examples. Only Bouncing Balls now. (2022)
 
 ### PyGObject
 
+- [Wine Launcher](https://github.com/ersoy-kardesler-pardus-repositories/wine-launcher): Launch Wine with some variables. (2022)
 - [Python GTK+ Hello World](https://github.com/eersoy93/python-gtk-hello-world): My template for my Python GTK+ 3.x applications. (2022)
 
 ### PyQt5 (Python and Qt5)
