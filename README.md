@@ -4,6 +4,6 @@
 
 # My Profiles on Other Code Repository Platforms
 
-* [NotABug](https://notabug.org/eersoy93)
-* [GitLab](https://gitlab.com/eersoy93)
-* [Pardus Kod](https://kod.pardus.org.tr/eersoy93)
+[<img src="images/git.svg" alt="NotABug" width="64"/>](https://notabug.org/eersoy93)
+[<img src="images/gitlab.svg" alt="GitLab" width="64"/>](https://gitlab.com/eersoy93)
+[<img src="images/gitlab.svg" alt="Pardus Kod" width="64"/>](https://kod.pardus.org.tr/eersoy93)
