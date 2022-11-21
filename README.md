@@ -1,9 +1,7 @@
-# My GitHub Stats
-
 ![eersoy93's GitHub stats](https://github-readme-stats.vercel.app/api?username=eersoy93&show_icons=true&theme=dark)
 
-# My Profiles on Other Code Repository Platforms
+[![Erdem Ersoy's GitLab Profile Name](https://img.shields.io/badge/eersoy93-GitLab-orange?style=for-the-badge)](https://gitlab.com/eersoy93)
 
-[<img src="images/git.svg" alt="NotABug" width="64"/>](https://notabug.org/eersoy93)
-[<img src="images/gitlab.svg" alt="GitLab" width="64"/>](https://gitlab.com/eersoy93)
-[<img src="images/gitlab.svg" alt="Pardus Kod" width="64"/>](https://kod.pardus.org.tr/eersoy93)
+[![Erdem Ersoy's NotABug Profile Name](https://img.shields.io/badge/eersoy93-NotABug-orange?style=for-the-badge)](https://notabug.org/eersoy93)
+
+[![Erdem Ersoy's Pardus Kod Profile Name](https://img.shields.io/badge/eersoy93-Pardus_Kod-orange?style=for-the-badge)](https://kod.pardus.org.tr/eersoy93)
