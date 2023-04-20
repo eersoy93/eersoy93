@@ -1,7 +1,7 @@
 # Erdem Ersoy (eersoy93)
 
 ## My Skills
-[![Skill Icons](https://skillicons.dev/icons?i=html,css,js,python,c,cpp,cs,v,java,qt,gtk)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=html,css,js,python,c,cpp,cs,v,java,qt,gtk,linux)](https://skillicons.dev)
 
 ## I love
 * Operating systems
@@ -10,3 +10,4 @@
 * Vintage and retro computing technologies
 * Electronics
 * Open source/Free software development
+* Studying, reading, writing, creating
