@@ -12,9 +12,3 @@ I am part time open source contributor.
 * Electronics
 * Open source/Free software development
 * Studying, reading, writing, creating
-
-## Would you like to get me as a participant for your open source/free software project?
-* If yes, contact me.
-
-## Do you have a question about me?
-* If yes, contact me.
