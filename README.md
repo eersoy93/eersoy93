@@ -1,13 +1,5 @@
 # Erdem Ersoy (eersoy93)
+Welcome to the my GitHub profile.
 
-## My Skills
-[![Skill Icons](https://skillicons.dev/icons?i=html,css,js,py,fortran,c,cpp,cs,rust,v,java,qt,gtk,linux,arduino)](https://skillicons.dev)
-
-## I love
-* Operating systems
-* Emulators, virtual machines
-* Simulations
-* Vintage and retro computing technologies
-* Electronics
-* Open source/Free software development
-* Studying, reading, writing, coding, creating
+## Active Projects
+- [E93:](https://github.com/eersoy93/E93) My hobby 32-bit operating system for old PCs.
