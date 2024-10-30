@@ -2,7 +2,7 @@
 Welcome to the my GitHub profile.
 
 ## Active Projects
-None currently. You could my past projects on my GitHub repositories.
+None currently. You could view my past projects on my GitHub repositories.
 
 I'm planning for new, exciting open source projects.
 
