@@ -1,4 +1,4 @@
 # Welcome to my profile! 
 I'm Erdem Ersoy (eersoy93).
 
-Rebooting my GitHub profile...
+I'm studying theoratical computer science topics now for my new GitHub journey.
