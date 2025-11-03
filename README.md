@@ -5,3 +5,5 @@ Also I have a YouTube channel: [Ersoy's PC Lab](https://www.youtube.com/@ErsoysP
 
 ## New Project: erdemOS
 See: https://github.com/eersoy93/erdemOS
+
+Sponsor this project: https://github.com/sponsors/eersoy93
