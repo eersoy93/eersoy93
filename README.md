@@ -3,4 +3,5 @@ I'm Erdem Ersoy (eersoy93). I'm creator of old [E93](https://github.com/Saravey-
 
 Also I have a YouTube channel: [Ersoy's PC Lab](https://www.youtube.com/@ErsoysPCLab)
 
-I'm studying theoretical computer science topics now for my new GitHub journey.
+## New Project: erdemOS
+See: https://github.com/eersoy93/erdemOS
