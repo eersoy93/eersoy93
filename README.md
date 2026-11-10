@@ -1,5 +1,5 @@
 # Welcome to my profile! 
-I'm Erdem Ersoy (eersoy93). I'm studying at Biophysics at Trakya University.
+I'm Erdem Ersoy (eersoy93). I'm an independent developer.
 
 ## Current Status
-I'm writing my master's thesis.
+I'm developing [winexe32emu](https://github.com/eersoy93/winexe32emu) nowadays.
